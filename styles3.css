@@ -1,0 +1,15 @@
+.boton{
+    
+    width:80px
+}
+
+
+
+.boton:hover{
+    
+    color:white;
+    
+    background-color:green;
+    content:"A";
+}
+
